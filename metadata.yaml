@@ -1,0 +1,28 @@
+_repo: Over-the-Front-in-an-Aeroplane-and-Scenes-Inside-the-French-and-Flemish-Trenches_43649
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43649-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Pulitzer, Ralph
+    birthdate: 1879
+    deathdate: 1939
+    gutenberg_agent_id: '42344'
+    url: http://www.gutenberg.org/2009/agents/42344
+description: Forfatteren beskriver besøg ved franske og belgiske frontafsnit under
+  1. verdenskrig.
+gutenberg_issued: '2013-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43649'
+  lccn: '16001862'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+title: Over the Front in an Aeroplane, and Scenes Inside the French and Flemish Trenches
+url: http://www.gutenberg.org/ebooks/43649
