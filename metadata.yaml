@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42344
 description: Forfatteren beskriver besøg ved franske og belgiske frontafsnit under
   1. verdenskrig.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43649#Over-the-Front-in-an-Aeroplane-and-Scenes-Inside-the-French-and-Flemish-Trenches
 gutenberg_issued: '2013-09-05'
 gutenberg_type: Text
 identifiers:
